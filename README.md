@@ -1,5 +1,5 @@
 # Hi 👋, I'm Ayush  
-I am Optimistic
+Work until your signature becomes an Autograph...
 
 💬 *Ask me about anything*  won't reply tho
 
