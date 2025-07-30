@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">I am a Machine Learning & Frontend Development Enthusiast</h3>
 <div>
-  <img align="right" src="https://github.com/user-attachments/assets/3c554977-8b1f-4ad5-8239-b9c6481d5a95" width="150">
+  <img align="right" src="https://github.com/user-attachments/assets/f7848b60-5592-4189-96d6-cd63bc1bc5f7" width="150">
 
 👨‍💻 All of my projects are available at [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ayushportfolio-amber.vercel.app/)<br></br>
 😉Work until your signature becomes an Autograph...<br><br>💬 *Ask me about anything* <br><br>⚡ *Fun fact:*  I once fixed a bug that didn’t exist—just to remind the code who's boss.<br>
