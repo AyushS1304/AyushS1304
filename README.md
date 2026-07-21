@@ -20,7 +20,7 @@ Engineering LLM-powered systems — RAG pipelines, model distillation, and compu
 
 ---
 
-## About
+## About Me
 
 I'm a final-year B.Tech Information Technology student (Minor Specialisation in AI & ML, CGPA 9.06) at Bharati Vidyapeeth's College of Engineering, GGSIPU, and currently a **Generative AI Consultant Intern at Coding Ninjas** — building and evaluating LLM-driven solutions using prompt engineering and RAG-based workflows to improve response accuracy and system reliability.
 
