@@ -22,11 +22,11 @@ Engineering LLM-powered systems — RAG pipelines, model distillation, and compu
 
 ## About Me
 
-I'm a final-year B.Tech Information Technology student (Minor Specialisation in AI & ML, CGPA 9.06) at Bharati Vidyapeeth's College of Engineering, GGSIPU, and currently a **Generative AI Consultant Intern at Coding Ninjas** — building and evaluating LLM-driven solutions using prompt engineering and RAG-based workflows to improve response accuracy and system reliability.
+I build intelligent systems end to end — from the model to the interface. My core focus is Generative AI and machine learning: designing retrieval-augmented pipelines and LLM orchestration, compressing deep networks through knowledge distillation, and applying computer vision to real-world problems.
 
-My work spans the full lifecycle of an ML product: designing retrieval-augmented pipelines and LLM orchestration, compressing deep networks through knowledge distillation (built on my model-distillation work during the Intel Unnati program), and applying computer vision — then shipping each as a deployed application with a FastAPI or Node/Express backend and a React frontend.
+I pair that with full-stack engineering, turning models into deployed products backed by FastAPI or Node/Express services and typed React frontends. I care about substance over noise — models that are benchmarked, systems that ship to production, and code that reads cleanly for the next engineer.
 
-I focus on substance over noise: models that are benchmarked, systems that ship to production, and code that reads cleanly for the next engineer.
+Currently exploring LLM agents, efficient inference, vector databases, and the craft of taking research-grade ideas into reliable, usable software. Away from the keyboard, I'm usually on the cricket pitch or deep into a video game.
 
 ---
 
@@ -51,6 +51,10 @@ I focus on substance over noise: models that are benchmarked, systems that ship 
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-1C3C3C?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
 
 **Frontend**
 
@@ -58,19 +62,26 @@ I focus on substance over noise: models that are benchmarked, systems that ship 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 
-**Backend & Tools**
+**Backend, Databases & Tools**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
