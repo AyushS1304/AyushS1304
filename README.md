@@ -137,9 +137,9 @@ A MERN-based invoice automation tool that uses Gemini-powered agents to extract 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AyushS1304&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=3178C6&icon_color=3178C6&text_color=768390&bg_color=0d1117" alt="Ayush's GitHub stats" />
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=AyushS1304&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=3178C6&icon_color=3178C6&text_color=768390&bg_color=0d1117" alt="Ayush's GitHub stats" /> -->
 &nbsp;
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushS1304&hide_border=true&background=0d1117&ring=3178C6&fire=3178C6&currStreakLabel=3178C6&sideLabels=768390&dates=768390&stroke=0d1117&sideNums=ffffff&currStreakNum=ffffff" alt="GitHub streak" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushS1304&hide_border=true&background=0d1117&ring=3178C6&fire=3178C6&currStreakLabel=3178C6&sideLabels=768390&dates=768390&stroke=0d1117&sideNums=ffffff&currStreakNum=ffffff" alt="GitHub streak" /> 
 
 <br/><br/>
 
