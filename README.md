@@ -151,7 +151,7 @@ A MERN-based invoice automation tool that uses Gemini-powered agents to extract 
 
 ## Contact
 
-I'm open to **ML/AI and Software Engineering internship and new-grad opportunities**. The fastest ways to reach me:
+I'm open to **AIML and Full-Stack Development related internship and new-grad opportunities**. The fastest ways to reach me:
 
 - **Email:** ayushsharma130408@gmail.com
 - **LinkedIn:** [ayush-sharma-6219352b1](https://linkedin.com/in/ayush-sharma-6219352b1)
