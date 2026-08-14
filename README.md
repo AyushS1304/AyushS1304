@@ -26,7 +26,7 @@ I build intelligent systems end to end — from the model to the interface. My c
 
 I pair that with full-stack engineering, turning models into deployed products backed by FastAPI or Node/Express services and typed React frontends. I care about substance over noise — models that are benchmarked, systems that ship to production, and code that reads cleanly for the next engineer.
 
-Currently exploring LLM agents, efficient inference, vector databases, and the craft of taking research-grade ideas into reliable, usable software. Away from the keyboard, I'm usually on the cricket pitch or deep into a video game.
+Currently exploring LLM agents, efficient inference, vector databases, and the craft of taking research grade ideas into reliable, usable software. Away from the keyboard, I'm usually on the cricket pitch or deep into a video game.
 
 ---
 
